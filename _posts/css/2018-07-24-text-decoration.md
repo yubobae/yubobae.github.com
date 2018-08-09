@@ -17,12 +17,12 @@ div{
 이 'text-decoration'속성은 텍스트에 추가 된 장식을 지정 할 수 있습니다.
 또 'text-color','text-line','text-style' 에 대한 속기 속성입니다.
 ### 속성값
-+text-line
++ text-line
  -overline : 텍스트 위에 1px라인을 추가합니다.
  -lihe-through : 텍스트 중앙에 1px 라인을 추가합니다.
  -underline : 텍스트 아래에 1px 라인을 추가합니다.
  -underline overline : 텍스트 위와 아래에 1px 라인을 추가합니다.
-+text-style 
++ text-style 
   -solid:기본값. 실선
   -double:쌍실선
   -dotted:점선
