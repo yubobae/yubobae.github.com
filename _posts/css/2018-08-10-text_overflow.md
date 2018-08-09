@@ -11,7 +11,7 @@ tags:
 ```
 text-overflow: clip|ellipsis|string|initial|inherit;
 ```
-### 텍스트  속성
+### 텍스트 오버플로어 속성
 이 'text-overflow'속성은  표시되지 않는 오버플로 된 콘텐츠를 사용자에게 알리는 방법을 지정합니다.
 잘라내거나 줄임표(...)를 표시하거나 사용자 정의 문자열을 표시 할 수 있습니다.
 
