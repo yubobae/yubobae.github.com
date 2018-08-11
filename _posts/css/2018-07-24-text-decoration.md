@@ -5,7 +5,7 @@ excerpt: ""
 tags: 
   - css
   - text
-  - decoration
+  - 텍스트장식
 ---
 ## CSS : text-decoration
 ```
