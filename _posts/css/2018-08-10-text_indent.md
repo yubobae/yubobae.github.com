@@ -4,8 +4,8 @@ title: "CSS: text-indent "
 excerpt: ""
 tags: 
   - css
-  - text
-  - indent
+  - 들여쓰기
+  - text-indent
 ---
 ## CSS : text-indent
 ```
