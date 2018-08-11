@@ -4,7 +4,7 @@ title: "CSS: text-shadow "
 excerpt: ""
 tags: 
   - css
-  - text
+  - text그림자
   - text-shadow
 ---
 ## CSS : text-shadow
