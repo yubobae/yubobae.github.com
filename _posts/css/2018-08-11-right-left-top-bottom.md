@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "CSS: text-decoration "
+title: "CSS: text-right-left-top-bottom "
 excerpt: ""
 tags: 
   - css
-  - text
-  - decoration
+  - 위치지정
+  - right-left-top-bottom
 ---
 
 CSS : left,right,top,bottom
