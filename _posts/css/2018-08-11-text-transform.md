@@ -6,7 +6,7 @@ excerpt: ""
 tags: 
   - css
   - text
-  - transform
+  - 대문자전환
   
 ---
 
