@@ -1,39 +1,39 @@
 ---
 
 layout: post
-title: "CSS: text-decoration "
+title: "CSS: text-transform "
 excerpt: ""
 tags: 
   - css
   - text
-  - decoration
+  - transform
   
 ---
 
-CSS : text-decoration
+CSS : text-transform
 
     div{
-      text-decoration:[overline|lihe-through|underline|underline overline] [style] [color];
+      text-transform:none| capitalize | uooercase | lowercase | initial | inherit
       }
 
-텍스트 정렬 속성
+텍스트 대문자 전환 속성
 
-이 'text-decoration'속성은 텍스트에 추가 된 장식을 지정 할 수 있습니다.
+이 'text-transform'속성은 텍스트에 대문자 또는 소문자로 바꾸는 속성입니다.
 
-또 'text-color','text-line','text-style' 에 대한 속기 속성입니다.
+영문에만 적용 가능하며 한글에서는 의미가없는 속성입니다.
 
 속성값
 
-- text-line
-  -overline : 텍스트 위에 1px라인을 추가합니다.
-   -lihe-through : 텍스트 중앙에 1px 라인을 추가합니다.
-   -underline : 텍스트 아래에 1px 라인을 추가합니다.
-   -underline overline : 텍스트 위와 아래에 1px 라인을 추가합니다.
-- text-style 
-  -solid:기본값. 실선
-  -double:쌍실선
-  -dotted:점선
-  -dashed:파선
-  -wavy:물결모양 선
+- none : 기본값. 입력된 그대로 출력합니다.
+  
+- capitalize : 각 단어의 첫번째 문자를 대문자로 만듭니다.
+
+- uppercase : 모든 문자를 대문자로 바꿉니다.
+
+- lowercase : 모든 문자를 소문자로 바꿉니다.
+
+- initial : 기본값으로 설정합니다.
+
+- inherit : 부모 요소의 속성값을 상속받습니다.
 
 
