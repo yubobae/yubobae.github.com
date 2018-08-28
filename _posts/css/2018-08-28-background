@@ -1,0 +1,22 @@
+---
+layout: post
+title: "css: backgrond"
+excerpt: ""
+tags: 
+  - background
+  - 배경속성
+  - markup
+---
+
+### CSS : background
+```
+body{
+  background : #fff url("image.png") no-repeat fiex center;
+  background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit;
+}
+```
+### background 속기 속성
+이 background 속성은 다음에 대한 속기 속성입니다.
+
+.....작성중입니다.
+
