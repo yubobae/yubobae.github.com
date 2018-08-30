@@ -14,6 +14,7 @@ tags:
 
 ``
 body {background-color: coral;}
+
 body{background-color: color|transparent|initial|inherit;}
 ``
 ### 배경컬러 지정 속성
