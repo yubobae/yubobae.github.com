@@ -12,11 +12,12 @@ tags:
 
 ### CSS : background--color
 
-``
+```
 body {background-color: coral;}
 
 body{background-color: color|transparent|initial|inherit;}
-``
+
+```
 ### 배경컬러 지정 속성
 
 이 background-color속성은 요소의 배경색을 설정합니다.
