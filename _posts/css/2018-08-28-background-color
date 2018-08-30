@@ -1,18 +1,20 @@
 ---
+
 layout: post
 title: "css: backgrond-color"
 excerpt: ""
 tags: 
-  - background
-  - 배경속성
-  - markup
+  - css
+  - 위치속성
+  - position
+  
 ---
 
 ### CSS : background--color
 
-```
+``
 body {background-color: coral;}
-```
+``
 ### background 속기 속성
 
 이 background-color속성은 요소의 배경색을 설정합니다.
