@@ -18,7 +18,7 @@ tags:
     background-attachment: scroll|fixed|local|initial|inherit;
 }
 
-### background 속기 속성
+### background-attachment속성
 
 이 background-attachment속성은 배경 이미지가 나머지 페이지와 함께 스크롤되는지 또는 고정되는지 여부를 설정합니다.
 
