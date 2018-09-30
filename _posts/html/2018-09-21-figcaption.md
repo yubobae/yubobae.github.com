@@ -19,6 +19,6 @@ tags:
 ```
 ### figcaption 태그란?
  
-<figcaption> 태그는 <figure> 요소에 대한 캡션을 정의합니다 .
+figcaption 태그는 figure 요소에 대한 캡션을 정의합니다 .
 
-<figcaption> 요소는 <figure> 요소의 첫 번째 또는 마지막 자식으로 배치 될 수 있습니다.
+figcaption 요소는 figure 요소의 첫 번째 또는 마지막 자식으로 배치 될 수 있습니다.
