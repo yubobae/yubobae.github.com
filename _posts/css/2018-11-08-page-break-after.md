@@ -16,7 +16,7 @@ tags:
 
 page-break-after속성은 지정된 요소 뒤에 페이지 나누기를 추가합니다.
 
-빈 <div> 또는 절대 배치 된 요소에는이 속성을 사용할 수 없습니다.
+빈 `<div>` 또는 절대 배치 된 요소에는이 속성을 사용할 수 없습니다.
 
 ### 속성
 `page-break-after: auto|always|avoid|left|right|initial|inherit;`
