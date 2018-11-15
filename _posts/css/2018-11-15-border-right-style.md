@@ -12,7 +12,7 @@ div {border-right-style: dotted;}
 ```
 ### CSS :border-right-style
 
-border-right-style 속성은 왼쪽 테두리의 스타일을 지정합니다.
+border-right-style 속성은 오른쪽 테두리의 스타일을 지정합니다.
 
 ### 속성
 `border-right-style: none|hidden|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;`
