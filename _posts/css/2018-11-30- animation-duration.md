@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS:animation-duration
+title: "CSS:animation-duration"
 excerpt: ""
 tags: 
   - css
