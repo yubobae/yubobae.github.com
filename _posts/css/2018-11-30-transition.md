@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS:transition
+title: "CSS:transition"
 excerpt: ""
 tags: 
   - css
