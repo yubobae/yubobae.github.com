@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS:transition-duration
+title: "CSS:transition-duration"
 excerpt: ""
 tags: 
   - css
