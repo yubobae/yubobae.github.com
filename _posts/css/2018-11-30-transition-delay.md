@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS:transition-delay
+title: "CSS:transition-delay"
 excerpt: ""
 tags: 
   - css
