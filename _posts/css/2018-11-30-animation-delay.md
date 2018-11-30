@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS:animation-delay
+title: "CSS:animation-delay"
 excerpt: ""
 tags: 
   - css
