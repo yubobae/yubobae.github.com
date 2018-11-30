@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS:animation
+title: "CSS:animation"
 excerpt: ""
 tags: 
   - css
