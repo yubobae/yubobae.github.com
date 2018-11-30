@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS:animation-direction
+title: "CSS:animation-direction"
 excerpt: ""
 tags: 
   - css
