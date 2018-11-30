@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CSS:animation-play-state
+title: "CSS:animation-play-state"
 excerpt: ""
 tags: 
   - css
