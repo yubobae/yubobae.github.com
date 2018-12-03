@@ -1,0 +1,27 @@
+---
+layout: post
+title: "HTML: `< param >` 태그"
+excerpt: ""
+tags: 
+  - HTML
+  - param
+  - markup
+---
+
+### HTML Tag : `<param>` 태그
+```
+<object data="horse.wav">
+  <param name="autoplay" value="true">
+</object>
+
+```
+### param 태그란?
+
+param 태그는 object 요소로 삽입 된 플러그인의 매개 변수를 정의하는 데 사용됩니다 .
+
+팁 : HTML 5에는 오디오 또는 비디오 재생을위한 두 개의 새로운 요소 인 audio 및 video 태그가 포함되어 있습니다.
+
+### 속성 
+
++ name :매개 변수의 이름을 지정합니다.
++ value :매개 변수의 값을 지정합니다.
